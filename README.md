@@ -172,6 +172,9 @@ Run the `--list` command from above to make sure the `cases` topic was successfu
 
 hive> use default;
 hive> select count(*) from cases;
+hive> select count(*) from cases where country='United_States';
+hive> select count(*) from cases where country='Palestine';
+hive> select * from cases where country='Jordan';
 ```
 
 ---
