@@ -1,7 +1,7 @@
 # BDT-Final-Project
 
 Please find a description and a demo in thie link:
-### Video [here] (https://youtu.be/7UzZhkg8TYo)
+### Video here https://youtu.be/7UzZhkg8TYo
 
 
 You can find all the steps in the link above, in addition to how to run the scripts.
